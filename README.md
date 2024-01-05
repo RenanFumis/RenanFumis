@@ -1,5 +1,7 @@
  <!-- Sobre mim -->
-<h1 align="left">Olá 😁! Me chamo Renan Fumis e estou em busca de me tornar um grande desenvolvedor Full Stack!</h1>
+<h1 align="left">Oi eu sou o Renan!<img src="https://aaah0mnbncqtinas.public.blob.vercel-storage.com/0Pj6ze9-no-background-dY8pvFIjbZzQaeA9cknV5vS7f0R0ju.png" height="60">
+</h1>
+<h2>E estou em busca de me tornar um grande desenvolvedor Full Stack.</h2><br>
 
  <p>Sou formado em Publicidade e Propaganda, porém sempre trabalhei na área de Marketing de empresas do ramo de tecnologia. Por estar sempre próximo dessa área, fui conhecendo cada vez mais sobre ela e me apaixonando. Atualmente, estou cursando uma pós-graduação em Full Stack na PUC e alguns cursos livres voltados para o front end.</p>
   <p>Estou em busca do meu primeiro emprego na área de Desenvolvimento Web, pois quero muito colocar em prática o que aprendi e me desenvolver cada vez mais.</p>
