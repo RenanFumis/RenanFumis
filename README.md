@@ -61,11 +61,16 @@
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="35" alt="whatsapp logo" >
   </a>
 
- 
+ <br>
+ <br>
  <img align="right" height="250" src="https://i.picasion.com/pic92/2736ff405ea2266f3e35fcf7b475bfb7.gif"  />
 
 </div>
 
-
+<div align="left"> 
+  <a href="https://open.spotify.com/user/21ewka2mlupkkxabd7rnhyley">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=21ewka2mlupkkxabd7rnhyley&count=4&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
 <br clear="both">
 
