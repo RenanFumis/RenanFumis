@@ -56,6 +56,10 @@
   <a href="mailto:meirfumis@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
+<img width="20"/>
+<a href="https://wa.me/5511981895187" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="35" alt="whatsapp logo" >
+  </a>
 
  
  <img align="right" height="250" src="https://i.picasion.com/pic92/2736ff405ea2266f3e35fcf7b475bfb7.gif"  />
