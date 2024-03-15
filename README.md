@@ -42,7 +42,7 @@
 - [Web - CV - Primeiro Projeto criado com HTML, CSS e um pouco de JS](https://renanfumis.github.io/renanfumis-cv-web/)
 - [Validador de CPF - Pequeno Projeto criado com HTML, CSS e JS, para validar e padronizar CPF](https://renanfumis.github.io/validadorCPF/)
 - [Criando Botão - Projeto onde você pode criar seu botão e copiar o código para seu projeto](https://renanfumis.github.io/criandoBotao/)
-- [Listas de Livros IndexedDB - Projeto onde você pode criar sua lista de livros e armazenar na api IndexDB](https://renanfumis.github.io/RenanFumis-IndexedDB_ListaLivros/)
+- [Listas de Livros IndexedDB - Projeto onde você pode criar sua lista de livros e armazenar na API IndexDB](https://renanfumis.github.io/RenanFumis-IndexedDB_ListaLivros/)
 - [FlexBlog-Pokemon - Projeto de conclusão do curso avançado de Flexbox](https://renanfumis.github.io/flexblogPokemon/)
 - [Pokedex Primeira Versão - Projeto com maior uso de JS usando fetch](https://renanfumis.github.io/pokedexV1/)
 
