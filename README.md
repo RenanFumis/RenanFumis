@@ -65,16 +65,16 @@
 <br clear="both">
  <!-- Formas de contato e gif -->
 <div align="center">
-  <a href="meirfumis@gmail.com" target="_blank">
+  <a href="mailto:meirfumis@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/renanfumis/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="+5511981895187" target="_blank">
+  <a href="https://wa.me/+5511981895187?text=Ol%C3%A1%2C%20vimos%20seu%20perfil%20no%20Github%20e%20gostar%C3%ADamos%20de%20marcar%20uma%20call%20para%20conversarmos.%20Qual%20a%20sua%20disponibilidade%3F" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
-  <a href="renan-oliveira19@hotmail.com" target="_blank">
+  <a href="mailto:renan-oliveira19@hotmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
   </a>
 </div>
