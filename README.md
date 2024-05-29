@@ -55,7 +55,7 @@
 <!-- Portfolio -->
 <h2 align="left">Portfolio Backend:</h2>
 
-- [Site do Anime Yu Yu Hakusho = Frontend criado com HTML5 e Display Grid CSS. O Backend é feito em Python e Django, com o SQlite incluso para armazenar os dados dos personagens](https://github.com/RenanFumis/yuyuhakusho)
+- [Site do Anime Yu Yu Hakusho - Frontend criado com HTML5 e Display Grid CSS. O Backend é feito em Python e Django, com o SQlite incluso para armazenar os dados dos personagens](https://github.com/RenanFumis/yuyuhakusho)
 - [API Batman - Primeiro Projeto de API criado com Node.js, Express.js, banco de dados MongoDB Atas e testado no Postman](https://github.com/RenanFumis/API_Batman)
 
 
