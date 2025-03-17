@@ -4,11 +4,14 @@
 
 ###
 
-<h2 align="left">E estou em busca de me tornar um grande desenvolvedor Full Stack.</h2>
+<h2 align="left">Desenvolvedor Full Stack.</h2>
 
 ###
 
-<p align="left">Sou formado em Publicidade e Propaganda, porém sempre trabalhei na área de Marketing de empresas do ramo de tecnologia. Por estar sempre próximo dessa área, fui conhecendo cada vez mais sobre ela e me apaixonando. Atualmente, estou cursando uma pós-graduação em Full Stack na PUC e fiz alguns cursos livres voltados para o Frontend, atualmente estou dando foco na área de Backend.<br><br>Em busca de me aperfeiçoar cada vez mais na área de Desenvolvimento Web (com foco no Backend).</p>
+<p align="left">Sou formado em Publicidade e Propaganda, mas minha trajetória sempre esteve ligada ao Marketing em empresas do setor de tecnologia. Essa proximidade despertou meu interesse pelo desenvolvimento, levando-me a aprofundar meus conhecimentos na área.</p>
+<p align="left">Atualmente, sou pós-graduado em Desenvolvimento Full Stack pela PUC-Minas e, ao longo da minha jornada, realizei diversos cursos livres focados em Backend.</p>
+
+<p align="left">Estou sempre em busca de aprimoramento e novas oportunidades para evoluir na área.</p>
 
 ###
 
