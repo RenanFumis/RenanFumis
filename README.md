@@ -1,5 +1,5 @@
  <!-- Sobre mim -->
-<h1 align="left">Oi eu sou o Renan!<img src="https://aaah0mnbncqtinas.public.blob.vercel-storage.com/0Pj6ze9-no-background-dY8pvFIjbZzQaeA9cknV5vS7f0R0ju.png" height="60">
+<h1 align="left">Oi eu sou o Renan!
 </h1>
 
 ###
