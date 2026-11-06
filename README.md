@@ -1,17 +1,17 @@
  <!-- Sobre mim -->
-<h1 align="left">Oi eu sou o Renan!
+<h1 align="left">Hi, I'm Renan!
 </h1>
 
 ###
 
-<h2 align="left">Desenvolvedor Full Stack.</h2>
+<h2 align="left">Full Stack Developer.</h2>
 
 ###
 
-<p align="left">Sou formado em Publicidade e Propaganda, mas minha trajetória sempre esteve ligada ao Marketing em empresas do setor de tecnologia. Essa proximidade despertou meu interesse pelo desenvolvimento, levando-me a aprofundar meus conhecimentos na área.</p>
-<p align="left">Atualmente, sou pós-graduado em Desenvolvimento Full Stack pela PUC-Minas e, ao longo da minha jornada, realizei diversos cursos livres focados em Backend.</p>
+<p align="left">I have a degree in Advertising and Public Relations, but my career has always been closely connected to Marketing in the technology industry. This exposure sparked my interest in software development, motivating me to expand my knowledge and pursue a career in the field.</p>
+<p align="left">I currently hold a postgraduate degree in Full Stack Development from PUC Minas and have completed several additional courses focused on Backend Development throughout my journey.</p>
 
-<p align="left">Estou sempre em busca de aprimoramento e novas oportunidades para evoluir na área.</p>
+<p align="left">I am always looking to improve my skills and explore new opportunities for professional growth in the field.</p>
 
 ###
 
@@ -46,23 +46,23 @@
 <img src="https://raw.githubusercontent.com/RenanFumis/RenanFumis/output/snake.svg" alt="Snake animation" />
 
 <!-- Portfolio -->
-<h2 align="left">Portfolio Backend:</h2>
+<h2 align="left">Backend Portfolio:</h2>
 
 ###
 
-- [Software desktop para conversão de arquivos em PDF ou TIFF – Desenvolvido com Flet Python para a interface gráfica e arquitetura MVVM no backend, utilizando Python. O software pode ser compilado em um executável (.exe) com PyInstaller](https://github.com/RenanFumis/software-conversor-de-arquivos)
-- [Site sobre Carros Esportivos de Luxo - Frontend criado com HTML5 e CSS Grid Display. O Backend é feito em Python e Django, utilizando o banco de dados PostgreSQL para persistir os dados](https://github.com/RenanFumis/PrimeRodas)
-- [Site do Anime Yu Yu Hakusho - Frontend criado com HTML5 e CSS Grid Display. O Backend é feito em Python e Django, utilizando o Cloudinary para armazenar as imagens dos personagens](https://github.com/RenanFumis/yuyuhakusho)
-- [API Batman - Primeiro Projeto de API criado com Node.js, Express.js, banco de dados MongoDB Atas e testado no Postman](https://github.com/RenanFumis/API_Batman)
+- [Desktop Software for PDF and TIFF File Conversion – Developed using Flet and Python for the graphical user interface, with an MVVM architecture on the backend. The software can be compiled into a standalone executable (.exe) using PyInstaller.](https://github.com/RenanFumis/software-conversor-de-arquivos)
+- [Luxury Sports Cars Website – Frontend developed with HTML5 and CSS Grid. Backend built with Python and Django, using PostgreSQL for data persistence.](https://github.com/RenanFumis/PrimeRodas)
+- [Yu Yu Hakusho Anime Website – Frontend developed with HTML5 and CSS Grid. Backend built with Python and Django, using Cloudinary for character image storage.](https://github.com/RenanFumis/yuyuhakusho)
+- [Batman API – My first API project, developed using Node.js, Express.js, and MongoDB Atlas, with API endpoints tested using Postman.](https://github.com/RenanFumis/API_Batman)
 
 
-<h2 align="left">Portfolio Frontend:</h2>
+<h2 align="left">Frontend Portfolio:</h2>
 
 ###
 
-- [Web - CV - Primeiro Projeto criado com HTML, CSS e um pouco de JS](https://renanfumis.github.io/renanfumis-cv-web/)
-- [FlexBlog-Pokemon - Projeto de conclusão do curso avançado de Flexbox](https://renanfumis.github.io/flexblogPokemon/)
-- [Pokedex Primeira Versão - Projeto com maior uso de JS usando fetch](https://renanfumis.github.io/pokedexV1/)
+- [Web CV – My first project, built using HTML, CSS, and basic JavaScript.](https://renanfumis.github.io/renanfumis-cv-web/)
+- [FlexBlog Pokémon – Final project for an advanced Flexbox course.](https://renanfumis.github.io/flexblogPokemon/)
+- [Pokédex – First Version – A project focused primarily on JavaScript, using the Fetch API to retrieve data.](https://renanfumis.github.io/pokedexV1/)
 
 ###
 
